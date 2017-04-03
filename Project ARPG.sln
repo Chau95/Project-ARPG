@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project ARPG.Plugins", "Project ARPG.Plugins.csproj", "{35380085-49CB-99C0-2570-0A4290EC8109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project ARPG", "Project ARPG.csproj", "{36955C75-975C-88B8-7E68-DBF8FD0F6833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project ARPG.Editor.Plugins", "Project ARPG.Editor.Plugins.csproj", "{5AF6DAC9-99BC-BA69-3EF4-C87F25EC47BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35380085-49CB-99C0-2570-0A4290EC8109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35380085-49CB-99C0-2570-0A4290EC8109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35380085-49CB-99C0-2570-0A4290EC8109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35380085-49CB-99C0-2570-0A4290EC8109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36955C75-975C-88B8-7E68-DBF8FD0F6833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36955C75-975C-88B8-7E68-DBF8FD0F6833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36955C75-975C-88B8-7E68-DBF8FD0F6833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36955C75-975C-88B8-7E68-DBF8FD0F6833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AF6DAC9-99BC-BA69-3EF4-C87F25EC47BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF6DAC9-99BC-BA69-3EF4-C87F25EC47BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF6DAC9-99BC-BA69-3EF4-C87F25EC47BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF6DAC9-99BC-BA69-3EF4-C87F25EC47BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
